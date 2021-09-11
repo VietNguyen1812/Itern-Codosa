@@ -1,0 +1,24 @@
+{
+  "name": "authorized-by-number-phone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "bower": "^1.8.12",
+    "firebase": "^8.5.0",
+    "firebaseui": "^4.8.0",
+    "live": "^0.1.25-beta.0",
+    "node-module": "^2.0.0",
+    "node_module": "0.0.0",
+    "server": "^1.0.32",
+    "start": "^5.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
